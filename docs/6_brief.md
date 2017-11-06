@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 6-Project Brief
+title: 06. Project Brief
 permalink: /brief/
 ---
 # Project Brief & Purpose

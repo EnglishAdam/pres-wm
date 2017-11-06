@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 4-Pretext
+title: 04. Pretext
 permalink: /pretext/
 ---
 # Pretext

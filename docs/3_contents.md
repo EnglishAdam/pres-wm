@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 3-Contents
+title: 03. Contents
 permalink: /contents/
 ---
 # Presentation Contents

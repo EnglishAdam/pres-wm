@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 8_Considerations
+title: 08. Considerations
 permalink: /lang_con/
 ---
 # Language Considerations

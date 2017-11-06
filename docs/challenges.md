@@ -1,4 +1,8 @@
-# Challenges Faced and Overcame
+---
+layout: page
+title: Challenges
+permalink: /challenges/
+---
 * ## Architecture change
     * Integration of Deepstream/Express.js
     * Change in Middleware

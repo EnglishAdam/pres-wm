@@ -1,3 +1,8 @@
+---
+layout: page
+title: Changes
+permalink: /changes/
+---
 # Would I Change anything
 * ## Use RESTful points initial
 * ## Consider Real-Time data later on

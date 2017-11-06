@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Introduction
+title: 1-Intro
 permalink: /intro/
 ---
 # Introduction

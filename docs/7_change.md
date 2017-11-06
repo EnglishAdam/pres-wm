@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 11-Changes
+title: 07. Changes
 permalink: /changes/
 ---
 # Changes I Would Make

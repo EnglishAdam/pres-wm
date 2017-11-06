@@ -1,8 +1,18 @@
 ---
 layout: page
-title: 04. Pretext
-permalink: /pretext/
+title: 01. Contents
+permalink: /contents/
 ---
+# Presentation Contents
+* Pretext.
+* Hupla, the software.
+* Initial Brief.
+* Specs.
+* Language, frameworks.
+* Design Choices.
+* Challenges
+* Testing
+
 # Pretext
 * Worked for both Space Escape Inc, Hupla.
 * Owners knew each other.

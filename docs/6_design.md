@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 10. Design
+title: 06. Design
 permalink: /design/
 ---
 # Design Choices & Changes

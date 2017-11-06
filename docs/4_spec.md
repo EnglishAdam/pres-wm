@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 07. Spec
+title: 04. Spec
 permalink: /spec/
 ---
 # Specs

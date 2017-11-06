@@ -1,3 +1,8 @@
+---
+layout: page
+title: The Brief & Purpose
+permalink: /about/
+---
 # The Brief / Purpose
 * ## Purpose
     * Social Basketball Mobile App

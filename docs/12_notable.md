@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Design Choices
+title: 12-Design Choices
 permalink: /design_choices/
 ---
 # Noteable Design Choices

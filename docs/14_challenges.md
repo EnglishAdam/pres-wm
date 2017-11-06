@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2. Challenges
+title: 14-Challenges
 permalink: /challenges/
 ---
 # Challenges & Difficulties Overcome

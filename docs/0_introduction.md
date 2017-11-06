@@ -4,6 +4,7 @@ title: 00. Intro and Overview
 permalink: /intro/
 ---
 # Introduction
+
 #### Who am I?
 * Adam English...
 * Full-Stack JavaScript developer.
@@ -23,6 +24,7 @@ permalink: /intro/
 ***
 
 # Overview Of Presentation
+
 #### What is it about?
 * Short presentation (10mins),
 * Presenting a case-study,

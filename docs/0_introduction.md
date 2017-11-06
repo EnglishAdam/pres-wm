@@ -19,7 +19,8 @@ permalink: /intro/
 * Unorthodox format of presentation.
 * Time limited, as away over weekend
 * Caught Up in London; Sunday Train issues.
----
+
+***
 
 # Overview Of Presentation
 #### What is it about?
@@ -38,11 +39,11 @@ permalink: /intro/
 * __Therefore, my presentation aims to facilitate that.__
 
 #### The software I will be presenting:
-* Hupla
-    * It is inclusive of other developed software.
-    * It better demonstrates, specs, tests etc..
-    * However, final version not release yet (End of Year).
-        * Delayed due to tech swap.
+##### Hupla, because:
+* It is inclusive of other developed software.
+* It better demonstrates, specs, tests etc..
+* However, final version not release yet (End of Year).
+    * Delayed due to tech swap.
 
 #### The software I will be partly presenting:
 * WebSocket Server
@@ -61,4 +62,5 @@ permalink: /intro/
 * Client side data storage.
 * DRM
 * APP Data
+
 ***

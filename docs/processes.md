@@ -1,5 +1,5 @@
 # Processes
-* ## Updates
+* Updates
     * Server
         * Make changes
         * Manual test locally
@@ -19,6 +19,6 @@
         * Via Phonegap, pull from Repo
         * Compile into platform files
         * Distribute file
-* ## Versioning
+* Versioning
     * Semver (Loose)
-* ## GitHub
+* GitHub

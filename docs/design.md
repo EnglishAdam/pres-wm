@@ -4,13 +4,13 @@ title: Design
 permalink: /design/
 ---
 # Design Choices & Changes
-* ## Messaging/Real-Time Connectivity
+* Messaging/Real-Time Connectivity
     * WebSocket Server & Client
     * Defined Messaging Prototocol
     * Assumed Server driven experience
     * Uses 'Observer Pattern'/Node Events library.
 
-* ## Servers, PaaS / Saas:
+* Servers, PaaS / Saas:
     * Informated by client cost.
     * Database
         * Compose.io
@@ -21,11 +21,11 @@ permalink: /design/
             * SendGrid
             * PaperTrail / Logging
 
-* ## Security
+* Security
     * Password Hash,
     * JWT (JSON Web Tokens)
 
-* ## Major Changes
+* Major Changes
     * Separation from Space Escape
         * Expanded Spec
     * Deepstream.io

@@ -1,5 +1,10 @@
+---
+layout: page
+title: Frameworks
+permalink: /frameworks/
+---
 # Chosen Language/Frameworks
-* ## Backend
+* Backend
     * NodeJS
     * WebSockets Server (WS)
         * Later changed to Deepstream.io
@@ -8,16 +13,16 @@
         * Later replaced with Heroku's own services
     * ExpressJS HTTP Server
 
-* ## Middleware
+* Middleware
     * Initially Bespoke WebSocket Communication
     * Data retrieval via WS (Not RESTful)
         * Decision dictated by shared development
 
-* ## Frontend (Website)
+* Frontend (Website)
     * ExpressJS
     * Deepstream
 
-* ## Frontend (Application)
+* Frontend (Application)
     * Aurelia.io
     * Aurelia-Materialize-Bridge
     * Materialize.css
@@ -25,7 +30,7 @@
         * Later on Deepstream.io Client
     * Plus other relevant modules
 
-* ## Testing Frameworks
+* Testing Frameworks
     * Aurelia-Testing
         * Component Testing
         * Integrates with testing frameworks below.
@@ -35,10 +40,10 @@
         * Primarily Backend
     * Protractor/Karma (e2e, frontend)
 
-* ## Wrapper
+* Wrapper
     * Cordova (via Adobe PhoneGap)
 
-* ## Package Managment
+* Package Managment
     * NPM (Node Package Manager)
     * Gulp (Task Runner)
     * Aurelia CLI

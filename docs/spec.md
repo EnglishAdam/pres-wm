@@ -1,5 +1,5 @@
 # Specs
-* ## Design Spec
+* Design Spec
     * Adobe XD (User Interface/Experience Software)
     * Wireframe created
     * Features described
@@ -17,20 +17,20 @@
         * Add Teams
         * Add locations
 
-* ## Database Spec
+* Database Spec
     * Not given, created from Layout
     * Model/Schema created with Thinky.io (Rethink DRM)
     * Later with bespoke DRM fro Deepstream.io
     * As Data Modelling changed with tech change
 
-* ## Testing Spec
+* Testing Spec
     * No Spec Given
     * Frameworks used
         * Unit Testing, added post product
         * Automated testing, added post product
         * User Testing
 
-* ## Messaging Spec
+* Messaging Spec
     * Taken from Space Escape work
     * Message Types
     * Message Flow

@@ -1,12 +1,17 @@
+---
+layout: page
+title: Design Choices
+permalink: /design_choices/
+---
 # Noteable Design Choices
-* ## File structure
+* File structure
         * Aurelia
         * Class
 
-* ## Messaging
+* Messaging
     * Observer pattern
     * Realtime/Restful
 
-* ## Switching to Deepstream.io
-* ## Switching to Heroku
+* Switching to Deepstream.io
+* Switching to Heroku
 * Integration of Deepstream/Express.js

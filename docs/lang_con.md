@@ -1,5 +1,10 @@
+---
+layout: page
+title: Considerations
+permalink: /lang_con/
+---
 # Language Considerations
-* ## Base Decisions
+* Base Decisions
     * Hybrid App
         * Cross platform
         * My capabilities
@@ -10,15 +15,15 @@
     * HTML
     * CSS
 
-* ## Tech Comparison Overview
+* Tech Comparison Overview
     * Informed by Space Escape
         * Meteor, Arduino prototyping
         * MongoDB
 
-* ## Comparison table
+* Comparison table
     * __See Email__
 
-* ## Comparison Hybrid App Framework
+* Comparison Hybrid App Framework
     * https://framework7.io/
     * http://ionicframework.com/
     * https://famous.co/

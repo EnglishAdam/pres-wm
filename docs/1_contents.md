@@ -12,6 +12,8 @@ permalink: /contents/
 * Challenges & Difficulties
 * Processing
 
+***
+
 # Pretext
 * Worked for both Space Escape Inc, Hupla.
 * Owners knew each other.

@@ -3,7 +3,7 @@ layout: page
 title: 06. Design
 permalink: /design/
 ---
-# Design Choices & Changes
+# Design Choices
 * Messaging/Real-Time Connectivity
     * WebSocket Server & Client
     * Defined Messaging Prototocol
@@ -30,3 +30,16 @@ permalink: /design/
         * Expanded Spec
     * Deepstream.io
     * Modulous > Xervo > Heroku
+
+# Noteable Design Choices
+* File structure
+        * Aurelia
+        * Class
+
+* Messaging
+    * Observer pattern
+    * Realtime/Restful
+
+* Switching to Deepstream.io
+* Switching to Heroku
+* Integration of Deepstream/Express.js

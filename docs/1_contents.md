@@ -4,14 +4,13 @@ title: 01. Contents
 permalink: /contents/
 ---
 # Presentation Contents
-* Pretext.
-* Hupla, the software.
-* Initial Brief.
+* The Software.
+* Project Brief & Purpose.
 * Specs.
-* Language, frameworks.
-* Design Choices.
-* Challenges
-* Testing
+* Language, Frameworks.
+* Design Choices & Changes.
+* Challenges & Difficulties
+* Processing
 
 # Pretext
 * Worked for both Space Escape Inc, Hupla.

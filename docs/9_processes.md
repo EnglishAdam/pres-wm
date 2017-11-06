@@ -8,7 +8,7 @@ permalink: /processes/
     * Server
         * Make changes
         * Manual test locally
-        * Test connectin application
+        * Test connecting application
         * Commit to Git
         * Push to Git
         * Pull Changes to Heroku

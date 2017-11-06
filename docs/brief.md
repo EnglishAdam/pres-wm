@@ -1,9 +1,9 @@
 ---
 layout: page
-title: The Brief & Purpose
+title: Project Brief
 permalink: /brief/
 ---
-* Purpose
+* #### Purpose
     * Social Basketball Mobile App
     * For Highschool aged students
     * To connect together

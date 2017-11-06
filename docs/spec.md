@@ -1,3 +1,8 @@
+---
+layout: page
+title: 3. Spec
+permalink: /spec/
+---
 # Specs
 * Design Spec
     * Adobe XD (User Interface/Experience Software)

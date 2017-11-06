@@ -1,3 +1,8 @@
+---
+layout: page
+title: 3. Processes
+permalink: /processes/
+---
 # Processes
 * Updates
     * Server

@@ -3,7 +3,7 @@ layout: page
 title: 3. Changes
 permalink: /changes/
 ---
-# Would I Change anything
+# Changes I Would Make
 * Use RESTful points initial
 * Consider Real-Time data later on
 * Use, Behaviour Driven Development

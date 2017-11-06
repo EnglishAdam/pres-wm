@@ -1,3 +1,8 @@
+---
+layout: page
+title: 3. Software
+permalink: /software/
+---
 # The Software
 * Overview
     * Started, Oct 2016

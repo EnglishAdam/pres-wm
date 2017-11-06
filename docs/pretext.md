@@ -1,3 +1,8 @@
+---
+layout: page
+title: 3. Pretext
+permalink: /pretext/
+---
 # Pretext
 * Worked for both Space Escape Inc, Hupla.
 * Owners knew each other.

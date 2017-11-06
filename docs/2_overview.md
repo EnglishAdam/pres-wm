@@ -9,7 +9,6 @@ permalink: /overview/
     * Presenting a case-study,
     * Demonstrating a piece of software I have developed,
     * Answering questions.
-    *
 
 
 * Purpose, why demonstrate, what are you assessing:

@@ -5,7 +5,7 @@ permalink: /intro/
 ---
 # Introduction
 ## Who am I?
-* Adam English.
+* Adam English..
 * Full-Stack JavaScript developer.
 * Applying for Software Development Position.
 

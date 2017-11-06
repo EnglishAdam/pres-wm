@@ -4,6 +4,7 @@ title: 09. Processes
 permalink: /processes/
 ---
 # Processes
+
 #### Updates
 * Server
     * Make changes
@@ -24,6 +25,8 @@ permalink: /processes/
     * Via Phonegap, pull from Repo
     * Compile into platform files
     * Distribute file
+
 #### Versioning
 * Semver (Loose)
+
 #### GitHub

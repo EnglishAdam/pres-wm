@@ -4,6 +4,7 @@ title: 03. Project Brief
 permalink: /brief/
 ---
 # Project Brief & Purpose
+
 #### Purpose
 * Social Basketball Mobile App
 * For Highschool aged students

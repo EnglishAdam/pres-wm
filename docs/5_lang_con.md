@@ -4,6 +4,7 @@ title: 05. Language and Framework
 permalink: /lang_con/
 ---
 # Language Considerations & Choices
+
 #### Base Decisions
 * Hybrid App
     * Cross platform
@@ -32,6 +33,7 @@ permalink: /lang_con/
 ***
 
 # Chosen Language/Frameworks
+
 #### Backend
 * NodeJS (https://nodejs.org/en/)
 * WebSockets Server (WS)

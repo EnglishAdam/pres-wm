@@ -1,3 +1,8 @@
+---
+layout: page
+title: Design
+permalink: /design/
+---
 # Design Choices & Changes
 * ## Messaging/Real-Time Connectivity
     * WebSocket Server & Client

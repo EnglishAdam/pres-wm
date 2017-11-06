@@ -3,6 +3,7 @@ layout: page
 title: Challenges
 permalink: /challenges/
 ---
+# Challenges & Difficulties Overcome
 * ## Architecture change
     * Integration of Deepstream/Express.js
     * Change in Middleware

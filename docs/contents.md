@@ -1,3 +1,8 @@
+---
+layout: page
+title: Contents
+permalink: /contents/
+---
 # Presentation Contents
 * Pretext.
 * Hupla, the software.

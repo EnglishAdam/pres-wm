@@ -5,7 +5,7 @@ permalink: /intro/
 ---
 # Introduction
 #### Who am I?
-* Adam English.
+* Adam English...
 * Full-Stack JavaScript developer.
 * Applying for Software Development Position.
 
@@ -21,8 +21,6 @@ permalink: /intro/
 * Caught Up in London; Sunday Train issues.
 ---
 
----
----
 # Overview Of Presentation
 #### What is it about?
 * Short presentation (10mins),
